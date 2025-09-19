@@ -3,7 +3,7 @@
 Full Stack Developer with a strong interest in backend development. 
 Experience with Python, Go, Javascript, Typescript, React, C# and more.
 
-- Currently learning about interpreters and coding one inside Go.
+- Learning about interpreters and coding one using Go.
 - Check out my repos to see ongoing projects.
 - Currently a novice at Vim.
 <!--
