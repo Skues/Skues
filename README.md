@@ -1,5 +1,10 @@
 ## 👋 Hello, I'm Alfie  
 
+Full stack Developer with a strong interest in backend development. 
+Experience with Python, Go, Javascript, Typescript, React, C# and more.
+
+- Currently learning about interpreters and coding one inside Go.
+- Check out my repos to see ongoing projects.
 <!--
 **Skues/Skues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
