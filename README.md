@@ -5,7 +5,6 @@ Experience with Python, Go, Javascript, Typescript, React, C# and more.
 
 - Learning about interpreters and coding one using Go.
 - Check out my repos to see ongoing projects.
-- Currently a novice at Vim.
 <!--
 **Skues/Skues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
