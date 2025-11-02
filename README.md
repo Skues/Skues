@@ -1,9 +1,8 @@
 ## 👋 Hello, I'm Alfie  
 
-Full Stack Developer with a strong interest in backend development. 
+Software dev with a strong interest in backend development.
 Experience with Python, Go, Javascript, Typescript, React, C# and more.
 
-- Learning about interpreters and coding one using Go.
 - Check out my repos to see ongoing projects.
 <!--
 **Skues/Skues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
